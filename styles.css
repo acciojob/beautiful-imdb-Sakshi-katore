@@ -1,2 +1,13 @@
+.moviePic {
+  opacity: 0.9;
+}
 
-/* Your CSS Code here. */
+.movieDetail
+{
+  position: absolute;
+  top: 30%;
+  color: yellow;
+  width: 90px;
+  text-align: center;
+  font-size: 10px;
+}
